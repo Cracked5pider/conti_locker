@@ -1,0 +1,70 @@
+﻿cl : командная строка warning D9014: недопустимое значение "2440" для "/wd"; использование "5999"
+  antihooks.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: Использован обработчик исключений C++, но семантика уничтожения объектов не включена. Задайте параметр /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\limits(210): warning C4577: "noexcept" использовано без указания режима обработки исключений; прекращение по исключению не гарантируется. Укажите /EHsc
+  api.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: Использован обработчик исключений C++, но семантика уничтожения объектов не включена. Задайте параметр /EHsc
+api.cpp(5): warning C4005: HASHING_SEED: изменение макроопределения
+  c:\source\contilocker_v2\locker\api.h(6): note: см. предыдущее определение "HASHING_SEED"
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: "noexcept" использовано без указания режима обработки исключений; прекращение по исключению не гарантируется. Укажите /EHsc
+  disks.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: Использован обработчик исключений C++, но семантика уничтожения объектов не включена. Задайте параметр /EHsc
+c:\source\contilocker_v2\locker\queue.h(118): warning C4005: SLIST_ENTRY: изменение макроопределения
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winnt.h(12726): note: см. предыдущее определение "SLIST_ENTRY"
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: "noexcept" использовано без указания режима обработки исключений; прекращение по исключению не гарантируется. Укажите /EHsc
+  global_parameters.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: Использован обработчик исключений C++, но семантика уничтожения объектов не включена. Задайте параметр /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: "noexcept" использовано без указания режима обработки исключений; прекращение по исключению не гарантируется. Укажите /EHsc
+  hash.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: Использован обработчик исключений C++, но семантика уничтожения объектов не включена. Задайте параметр /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: "noexcept" использовано без указания режима обработки исключений; прекращение по исключению не гарантируется. Укажите /EHsc
+  locker.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: Использован обработчик исключений C++, но семантика уничтожения объектов не включена. Задайте параметр /EHsc
+c:\source\contilocker_v2\locker\queue.h(118): warning C4005: SLIST_ENTRY: изменение макроопределения
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winnt.h(12726): note: см. предыдущее определение "SLIST_ENTRY"
+locker.cpp(589): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: "noexcept" использовано без указания режима обработки исключений; прекращение по исключению не гарантируется. Укажите /EHsc
+  logs.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: Использован обработчик исключений C++, но семантика уничтожения объектов не включена. Задайте параметр /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: "noexcept" использовано без указания режима обработки исключений; прекращение по исключению не гарантируется. Укажите /EHsc
+  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: Использован обработчик исключений C++, но семантика уничтожения объектов не включена. Задайте параметр /EHsc
+c:\source\contilocker_v2\locker\queue.h(118): warning C4005: SLIST_ENTRY: изменение макроопределения
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winnt.h(12726): note: см. предыдущее определение "SLIST_ENTRY"
+main.cpp(173): warning C4244: аргумент: преобразование "LONGLONG" в "SIZE_T", возможна потеря данных
+main.cpp(183): warning C4244: аргумент: преобразование "LONGLONG" в "DWORD", возможна потеря данных
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: "noexcept" использовано без указания режима обработки исключений; прекращение по исключению не гарантируется. Укажите /EHsc
+  memory.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: Использован обработчик исключений C++, но семантика уничтожения объектов не включена. Задайте параметр /EHsc
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: "noexcept" использовано без указания режима обработки исключений; прекращение по исключению не гарантируется. Укажите /EHsc
+  network_scanner.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: Использован обработчик исключений C++, но семантика уничтожения объектов не включена. Задайте параметр /EHsc
+c:\source\contilocker_v2\locker\queue.h(118): warning C4005: SLIST_ENTRY: изменение макроопределения
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winnt.h(12726): note: см. предыдущее определение "SLIST_ENTRY"
+network_scanner.cpp(18): warning C4005: STOP_MARKER: изменение макроопределения
+  c:\source\contilocker_v2\locker\threadpool.h(5): note: см. предыдущее определение "STOP_MARKER"
+network_scanner.cpp(91): warning C4101: InAddr: неиспользованная локальная переменная
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: "noexcept" использовано без указания режима обработки исключений; прекращение по исключению не гарантируется. Укажите /EHsc
+  process_killer.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: Использован обработчик исключений C++, но семантика уничтожения объектов не включена. Задайте параметр /EHsc
+c:\source\contilocker_v2\locker\queue.h(118): warning C4005: SLIST_ENTRY: изменение макроопределения
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winnt.h(12726): note: см. предыдущее определение "SLIST_ENTRY"
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: "noexcept" использовано без указания режима обработки исключений; прекращение по исключению не гарантируется. Укажите /EHsc
+  search.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: Использован обработчик исключений C++, но семантика уничтожения объектов не включена. Задайте параметр /EHsc
+c:\source\contilocker_v2\locker\queue.h(118): warning C4005: SLIST_ENTRY: изменение макроопределения
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winnt.h(12726): note: см. предыдущее определение "SLIST_ENTRY"
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: "noexcept" использовано без указания режима обработки исключений; прекращение по исключению не гарантируется. Укажите /EHsc
+  threadpool.cpp
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\xlocale(341): warning C4530: Использован обработчик исключений C++, но семантика уничтожения объектов не включена. Задайте параметр /EHsc
+c:\source\contilocker_v2\locker\queue.h(118): warning C4005: SLIST_ENTRY: изменение макроопределения
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winnt.h(12726): note: см. предыдущее определение "SLIST_ENTRY"
+C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\include\exception(359): warning C4577: "noexcept" использовано без указания режима обработки исключений; прекращение по исключению не гарантируется. Укажите /EHsc
+cl : командная строка warning D9014: недопустимое значение "2440" для "/wd"; использование "5999"
+  chacha.c
+chacha20\chacha.c(90): warning C4018: <: несоответствие типов со знаком и без знака
+chacha20\chacha.c(180): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода
+  All 1829 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  locker.vcxproj -> c:\source\ContiLocker_v2\Release\locker.exe

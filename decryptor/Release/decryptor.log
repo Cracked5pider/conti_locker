@@ -1,0 +1,31 @@
+﻿  chacha.c
+chacha20\chacha.c(90): warning C4018: <: несоответствие типов со знаком и без знака
+chacha20\chacha.c(180): warning C4018: <: несоответствие типов со знаком и без знака
+  disks.cpp
+c:\source\contilocker_v2\decryptor\queue.h(118): warning C4005: SLIST_ENTRY: изменение макроопределения
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winnt.h(12726): note: см. предыдущее определение "SLIST_ENTRY"
+  global_parameters.cpp
+  decryptor.cpp
+c:\source\contilocker_v2\decryptor\queue.h(118): warning C4005: SLIST_ENTRY: изменение макроопределения
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winnt.h(12726): note: см. предыдущее определение "SLIST_ENTRY"
+  main.cpp
+c:\source\contilocker_v2\decryptor\queue.h(118): warning C4005: SLIST_ENTRY: изменение макроопределения
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winnt.h(12726): note: см. предыдущее определение "SLIST_ENTRY"
+  memory.cpp
+  network_scanner.cpp
+c:\source\contilocker_v2\decryptor\queue.h(118): warning C4005: SLIST_ENTRY: изменение макроопределения
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winnt.h(12726): note: см. предыдущее определение "SLIST_ENTRY"
+network_scanner.cpp(21): warning C4005: STOP_MARKER: изменение макроопределения
+  c:\source\contilocker_v2\decryptor\threadpool.h(5): note: см. предыдущее определение "STOP_MARKER"
+network_scanner.cpp(94): warning C4101: InAddr: неиспользованная локальная переменная
+  search.cpp
+c:\source\contilocker_v2\decryptor\queue.h(118): warning C4005: SLIST_ENTRY: изменение макроопределения
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winnt.h(12726): note: см. предыдущее определение "SLIST_ENTRY"
+  threadpool.cpp
+c:\source\contilocker_v2\decryptor\queue.h(118): warning C4005: SLIST_ENTRY: изменение макроопределения
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.1A\include\winnt.h(12726): note: см. предыдущее определение "SLIST_ENTRY"
+  Создание кода
+  All 286 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  decryptor.vcxproj -> c:\source\ContiLocker_v2\Release\decryptor.exe
+  decryptor.vcxproj -> c:\source\ContiLocker_v2\Release\decryptor.pdb (Full PDB)

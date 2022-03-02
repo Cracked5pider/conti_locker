@@ -1,0 +1,5 @@
+﻿cl : командная строка warning D9014: недопустимое значение "2440" для "/wd"; использование "5999"
+  main.cpp
+c:\source\ContiLocker_v2\locker\main.cpp(170,39): warning C4244: аргумент: преобразование "LONGLONG" в "SIZE_T", возможна потеря данных
+c:\source\ContiLocker_v2\locker\main.cpp(180,54): warning C4244: аргумент: преобразование "LONGLONG" в "DWORD", возможна потеря данных
+  locker.vcxproj -> c:\source\ContiLocker_v2\Debug\locker.exe
